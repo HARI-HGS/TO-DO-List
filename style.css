@@ -1,0 +1,134 @@
+.body{
+  
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+  
+  
+  
+}
+.js-first{
+    font-family: Arial bold;
+}
+
+.js-middle{
+    margin-left:80px;
+}
+
+.js-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    margin-top: 10px;
+    font-size:20px ;
+    
+    
+}
+
+.js-flex{
+    display: grid;
+    grid-template-columns: 150px 250px 200px ;
+}
+
+
+.js-input{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(163, 160, 160);
+    max-width: 250px;
+    font-size: 20px;
+    font-family: arial;
+   
+}
+
+.js-dateinput{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(163, 160, 160);
+    width: 250px;
+    font-size: 20px;
+    font-family: arial;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.add{
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(120, 93, 255);
+    font-size: 20px;
+    font-family: arial;
+    cursor:pointer;  
+    background-color: rgb(98, 92, 253);
+    color: white;
+}
+
+.add:hover{
+    background-color: rgb(65, 116, 227);
+
+}
+
+.heading{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+
+
+}
+
+.p{
+   
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 1000;
+
+}
+
+
+.js-p{
+  
+   font-size: 20px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-weight: 1000;
+   padding-right:10px;
+   margin-bottom: 30px;
+   
+  
+}
+
+.js-bt{
+    
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 57px;
+}
+
+
+
+
